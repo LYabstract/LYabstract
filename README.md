@@ -1,4 +1,13 @@
 ### Hi there 👋
+- 🌱 I’m currently learning CS
+- 👯 I’m looking to collaborate on GitHub
+- 💬 Ask me about JAVA MySQL Spring
+- 😄 welcome to my GitHub！！！
+- ![faceu](https://user-images.githubusercontent.com/73219075/169999503-a0131a16-8b15-478d-b3a9-929fa1720d53.jpg)
+
+![](https://github-readme-stats.vercel.app/api?username=LYabstract)
+
+![decription](https://img.shields.io/badge/tools-pycharm-green)
 
 <!--
 **LYabstract/LYabstract** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
